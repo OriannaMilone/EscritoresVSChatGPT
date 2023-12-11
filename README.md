@@ -11,7 +11,8 @@
 7. Link al repositorio de Zack Thoutt: https://github.com/zackthoutt/got-book-6/tree/master/generated-book-v1
 8. Link al artículo de Softtonic: https://www.softonic.com/articulos/casting-perfecto-juego-de-tronos-inteligencia-artificial
 9. Otras noticias de interés:
-  a) OpenAI: https://elpais.com/economia/2023-09-27/openai-busca-una-valoracion-de-hasta-90000-millones-de-dolares-en-una-venta-de-acciones.html
-  b) OpenAI: https://elpais.com/economia/2023-01-23/microsoft-invertira-100000-millones-en-la-empresa-de-chatgpt-para-impulsar-la-inteligencia-artificial.html
+a) OpenAI: https://elpais.com/economia/2023-09-27/openai-busca-una-valoracion-de-hasta-90000-millones-de-dolares-en-una-venta-de-acciones.html
+b) OpenAI: https://elpais.com/economia/2023-01-23/microsoft-invertira-100000-millones-en-la-empresa-de-chatgpt-para-impulsar-la-inteligencia-artificial.html
+c) Athropic (competidores de OpenAI): https://es.wikipedia.org/wiki/Anthropic
 
-10. Más links y referencias bibliográficas en el informe. 
+11. Más links y referencias bibliográficas en el informe. 
